@@ -1,7 +1,7 @@
 PATH
   remote: ../site_mappings
   specs:
-    worth_it_mapping (0.1.25)
+    worth_it_mapping (0.1.26)
       activesupport
       coffee-script
       rails (>= 3.1)
